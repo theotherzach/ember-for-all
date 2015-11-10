@@ -2,8 +2,12 @@
 layout: default
 ---
 
-<div class="home">
 
-  <h1 class="page-heading">Ember For All</h1>
+<h1>Ember For All</h1>
 
-</div>
+{% capture tutorial %}
+  {% include tutorial.markdown %}
+{% endcapture %}
+
+{{ tutorial | markdownify }}
+
