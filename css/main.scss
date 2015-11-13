@@ -48,5 +48,6 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "bower_components/style-guide/src/scss/style-guide.scss",
+        "base",
         "syntax-highlighting"
 ;
