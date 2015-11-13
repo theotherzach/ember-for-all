@@ -113,7 +113,7 @@ export default Ember.Component.extend({
 <h1 {{action "changeGreeting"}}>{{greeting}}</h1>
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nILcF4Ei9Ww?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AxU0Ryb12Z0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Example 1: Schedule Appointment
 
