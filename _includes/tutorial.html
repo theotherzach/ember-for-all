@@ -1,0 +1,25 @@
+{% capture intro %}
+  {% include intro.markdown %}
+{% endcapture %}
+
+<section>
+  {{ intro | markdownify }}
+</section>
+
+
+{% capture example0 %}
+  {% include example-0.markdown %}
+{% endcapture %}
+
+<section>
+  {{ example0 | markdownify }}
+</section>
+
+
+{% capture example1 %}
+  {% include example-1.markdown %}
+{% endcapture %}
+
+<section>
+  {{ example1 | markdownify }}
+</section>
