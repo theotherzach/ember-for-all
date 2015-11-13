@@ -42,7 +42,7 @@ Ember For All aims to provide production-like examples to allow people to learn 
 <h1>Hello World</h1>
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gh4ZNZP16m0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eSrTQcFh3kY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 ## Property
@@ -63,7 +63,7 @@ export default Ember.Component.extend({
 <h1>{{greeting}}</h1>
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SjEDC6NYWtg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZigWewtisuI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Action
 
@@ -88,7 +88,7 @@ export default Ember.Component.extend({
 <h1 {{action "changeGreeting"}}>{{greeting}}</h1>
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yv631LJuhAU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y9xAMBdiYOw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Set
 
@@ -113,7 +113,7 @@ export default Ember.Component.extend({
 <h1 {{action "changeGreeting"}}>{{greeting}}</h1>
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pgPlJZ7Tc9g?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nILcF4Ei9Ww?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Example 1: Schedule Appointment
 
