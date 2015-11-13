@@ -1,24 +1,17 @@
 {% raw %}
 ## Example 0: Hello World
 
-### New Concepts
-
-+ components
-+ properties
-+ actions
-+ set
-
 ## Component
 
-### Create A Component
+**Create A Component**
 
 `$ ember g component hello-world`
 
-### Use A Component
+**Use A Component**
 
 `{{hello-world}}`
 
-### Change A Component
+**Change A Component**
 
 *app/templates/hello-world.hbs*
 
