@@ -1,0 +1,25 @@
+{
+  "name": "style-guide",
+  "description": "Internal style guide",
+  "main": "src/scss/style-guide.scss",
+  "homepage": "http://wtfluckey.github.io/style-guide/",
+  "authors": [
+    "Aly Fluckey <afluckey@2co.com>"
+  ],
+  "private": true,
+  "ignore": [
+    "*",
+    "!src/**",
+    "!README.md"
+  ],
+  "_release": "cb174da596",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "cb174da596752b2e117cf91110fa4598833d53ce"
+  },
+  "_source": "git://github.com/wtfluckey/style-guide.git",
+  "_target": "*",
+  "_originalSource": "wtfluckey/style-guide",
+  "_direct": true
+}

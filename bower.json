@@ -1,5 +1,6 @@
 {
   "name": "ember-for-all",
   "dependencies": {
+    "style-guide": "wtfluckey/style-guide"
   }
 }
