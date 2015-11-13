@@ -6,6 +6,3 @@ Ember For All aims to provide production-like examples to allow people to learn 
 * ordered to provide a gentle onramp
 
 [Contribute](https://github.com/theotherzach/ember-for-all) to Ember For All.
-
-*Missing: initial setup & example repo*
-
